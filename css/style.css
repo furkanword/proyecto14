@@ -12,7 +12,7 @@ header{
    
         
 }
-.blok{
+#blok{
     text-decoration-line: none;
 
     color: rgb(255, 255, 255);
@@ -23,15 +23,15 @@ header{
     margin: 50px;
     
 }
-.blok:hover{
+#blok:hover{
     background-color: #dcbbf1 ;
 }
-.blok2:hover{
+#blok2:hover{
     background-color: #dcbbf1;
 }
     
 
-.blok2{
+#blok2{
     text-decoration-line: none;
 
     color: rgb(255, 255, 255);
